@@ -65,5 +65,6 @@ function ask(question, ...handlers) {
 // // But this won't work:
 // func(); // Error, func is not defined (not visible outside of the function)
 //here f should be capital like F
-let sum=new Function('a','b','return a+b');
-alert(sum(5,10));
+// let sum=new Function('a','b','return a+b');
+// alert(sum(5,10));
+
