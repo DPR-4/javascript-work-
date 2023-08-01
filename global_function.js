@@ -35,18 +35,18 @@
 
 // alert(syhi.name)
 
-function ask(question, ...handlers) {
-    let isYes = confirm(question);
+// function ask(question, ...handlers) {
+//     let isYes = confirm(question);
   
-    for(let handler of handlers) {
-      if (handler.length == 0) {
-        if (isYes) handler();
-      } else {
-        handler(isYes);
-      }
-    }
+//     for(let handler of handlers) {
+//       if (handler.length == 0) {
+//         if (isYes) handler();
+//       } else {
+//         handler(isYes);
+//       }
+//     }
   
-  }
+//   }
 
 
 //here is NFE (Named Function Expression)
