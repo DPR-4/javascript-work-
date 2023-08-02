@@ -1,1 +1,4 @@
-alert("Dhanajay")
+// // alert("Dhanajay")
+// //set interval and set timeout
+// setTimeout allows us to run a function once after the interval of time.
+// setInterval allows us to run a function repeatedly, starting after the interval of time, then repeating continuously at that interval.
